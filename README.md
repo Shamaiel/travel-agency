@@ -1,5 +1,13 @@
 # template-travel-agency
-![viewfinal](https://github.com/ladan-hazrati-web/template-travel-agency/assets/119695832/e19e9e58-0c9a-4eca-9deb-7a0a04972fcc)
+![viewfinal](./img/s1.png)
+
+![viewfinal](./img/s2.png)
+
+![viewfinal](./img/s3.png)
+
+![viewfinal](./img/s4.png)
+
+![viewfinal](./img/s5.png)
 **You can see information about my project**
 
 - [Demo Project]( https://ladan-hazrati-web.github.io/template-travel-agency/)
@@ -8,7 +16,7 @@
 
 - Created - 2023-11-11
 
-- Technologies Used - Html , css , Tailwind
+- Technologies Used - Html , css , JS
 
 - Hooks Used : useState 
 
