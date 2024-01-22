@@ -20,6 +20,6 @@
 
 - Role - Frontend
 
-- How to reach me : with my [linkedin](https://shamaiel.github.io)
+- How to reach me : with my [portfolio](https://shamaiel.github.io)
 - How to reach me : with my [email](mswani258@gmail.com)
 
