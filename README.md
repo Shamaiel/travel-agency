@@ -10,7 +10,7 @@
 ![viewfinal](./img/s5.png)
 **You can see information about my project**
 
-- [Demo Project]( https://ladan-hazrati-web.github.io/template-travel-agency/)
+- [Demo Project]( https://github.com/Shamaiel/travel-agency)
 
 - Developed by Mohd Shamaiel Wani
 
@@ -18,8 +18,8 @@
 
 - Technologies Used - Html , css , JS
 
-- Hooks Used : useState 
-
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/ladan_hazrati_web) and [linkedin](https://www.linkedin.com/in/ladan-hazrati-web)
+- How to reach me : with my [linkedin](https://shamaiel.github.io)
+- How to reach me : with my [email](mswani258@gmail.com)
+
